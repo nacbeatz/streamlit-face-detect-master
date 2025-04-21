@@ -1,1 +1,2 @@
-# streamlit-face-detect-master
+
+# Face Detection using OpenCV and Streamlit
